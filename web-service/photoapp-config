@@ -1,0 +1,20 @@
+[s3]
+bucket_name = photoapp-jiayan
+
+[rds]
+endpoint = mysql-jiayan.cevbeejlemzb.us-east-2.rds.amazonaws.com
+port_number = 3306
+region_name = us-east-2
+user_name = photoapp-read-write
+user_pwd = def456!!
+db_name = photoapp
+
+[s3readonly]
+region_name = us-east-2
+aws_access_key_id = AKIARIBQCWNZERJQQ6EO
+aws_secret_access_key = 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
+
+[s3readwrite]
+region_name = us-east-2
+aws_access_key_id = AKIARIBQCWNZH6AIFWLV
+aws_secret_access_key = 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
