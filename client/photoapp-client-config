@@ -1,2 +1,2 @@
 [client]
-webservice=http://localhost:8080
+webservice=https://localhost:8080

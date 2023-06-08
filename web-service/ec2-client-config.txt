@@ -1,0 +1,2 @@
+[client]
+webservice=http://photoapp-jiayan-web-service-env.eba-czz93e8p.us-east-2.elasticbeanstalk.com

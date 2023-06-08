@@ -111,6 +111,7 @@ def stats(baseurl):
         url = baseurl + api
 
         res = requests.get(url)
+        print(res)
         #
         # let's look at what we got back:
         #

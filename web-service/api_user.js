@@ -16,7 +16,7 @@ exports.put_user = async (req, res) => {
     const email = data.email;
     const lastname = data.lastname;
     const firstname = data.firstname;
-    const bucket_folder = data.bucket_folder;
+    const bucket_folder = data.bucketfolder;
 
     // check that email is in users table
     var sql = `
